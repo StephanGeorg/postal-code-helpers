@@ -1,0 +1,1262 @@
+[
+  {
+    "iso": "AD",
+    "postalCodeFormat": "AD###",
+    "postalCodeRegex": "^(?:AD)*(\\d{3})$"
+  },
+  {
+    "iso": "AE",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AF",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AG",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AI",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AL",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "AM",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "AO",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AQ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AR",
+    "postalCodeFormat": "@####@@@",
+    "postalCodeRegex": "^[A-Z]?\\d{4}[A-Z]{0,3}$"
+  },
+  {
+    "iso": "AS",
+    "postalCodeFormat": "#####-####",
+    "postalCodeRegex": 96799
+  },
+  {
+    "iso": "AT",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "AU",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "AW",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "AX",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(?:FI)*(\\d{5})$"
+  },
+  {
+    "iso": "AZ",
+    "postalCodeFormat": "AZ ####",
+    "postalCodeRegex": "^(?:AZ)*(\\d{4})$"
+  },
+  {
+    "iso": "BA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "BB",
+    "postalCodeFormat": "BB#####",
+    "postalCodeRegex": "^(?:BB)*(\\d{5})$"
+  },
+  {
+    "iso": "BD",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "BE",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "BF",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BG",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "BH",
+    "postalCodeFormat": "####|###",
+    "postalCodeRegex": "^(\\d{3}\\d?)$"
+  },
+  {
+    "iso": "BI",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BJ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BL",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "BM",
+    "postalCodeFormat": "@@ ##",
+    "postalCodeRegex": "^([A-Z]{2}\\d{2})$"
+  },
+  {
+    "iso": "BN",
+    "postalCodeFormat": "@@####",
+    "postalCodeRegex": "^([A-Z]{2}\\d{4})$"
+  },
+  {
+    "iso": "BO",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BQ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BR",
+    "postalCodeFormat": "#####-###",
+    "postalCodeRegex": "^\\d{5}-\\d{3}$"
+  },
+  {
+    "iso": "BS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BT",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BV",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BW",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "BY",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "BZ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CA",
+    "postalCodeFormat": "@#@ #@#",
+    "postalCodeRegex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+  },
+  {
+    "iso": "CC",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CD",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CF",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CG",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CH",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "CI",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CK",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CL",
+    "postalCodeFormat": "#######",
+    "postalCodeRegex": "^(\\d{7})$"
+  },
+  {
+    "iso": "CM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CN",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "CO",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "CR",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "CU",
+    "postalCodeFormat": "CP #####",
+    "postalCodeRegex": "^(?:CP)*(\\d{5})$"
+  },
+  {
+    "iso": "CV",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "CW",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CX",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "CY",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "CZ",
+    "postalCodeFormat": "### ##",
+    "postalCodeRegex": "^\\d{3}\\s?\\d{2}$"
+  },
+  {
+    "iso": "DE",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "DJ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "DK",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "DM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "DO",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "DZ",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "EC",
+    "postalCodeFormat": "@####@",
+    "postalCodeRegex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+  },
+  {
+    "iso": "EE",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "EG",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "EH",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "ER",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "ES",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "ET",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "FI",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(?:FI)*(\\d{5})$"
+  },
+  {
+    "iso": "FJ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "FK",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "FM",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "FO",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(?:FO)*(\\d{3})$"
+  },
+  {
+    "iso": "FR",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "GA",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GB",
+    "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postalCodeRegex": "^([Gg][Ii][Rr]\\s?0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))\\s?[0-9][A-Za-z]{2})$"
+  },
+  {
+    "iso": "GD",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GE",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "GF",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^((97|98)3\\d{2})$"
+  },
+  {
+    "iso": "GG",
+    "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postalCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$"
+  },
+  {
+    "iso": "GH",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GI",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GL",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "GM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GN",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GP",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^((97|98)\\d{3})$"
+  },
+  {
+    "iso": "GQ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GR",
+    "postalCodeFormat": "### ##",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "GS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "GT",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "GU",
+    "postalCodeFormat": "969##",
+    "postalCodeRegex": "^(969\\d{2})$"
+  },
+  {
+    "iso": "GW",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "GY",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "HK",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "HM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "HN",
+    "postalCodeFormat": "@@####",
+    "postalCodeRegex": "^([A-Z]{2}\\d{4})$"
+  },
+  {
+    "iso": "HR",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(?:HR)*(\\d{5})$"
+  },
+  {
+    "iso": "HT",
+    "postalCodeFormat": "HT####",
+    "postalCodeRegex": "^(?:HT)*(\\d{4})$"
+  },
+  {
+    "iso": "HU",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "ID",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "IE",
+    "postalCodeFormat": "@@@ @@@@",
+    "postalCodeRegex": "^(D6W|[AC-FHKNPRTV-Y][0-9]{2})\\s?([AC-FHKNPRTV-Y0-9]{4})"
+  },
+  {
+    "iso": "IL",
+    "postalCodeFormat": "#######",
+    "postalCodeRegex": "^(\\d{7}|\\d{5})$"
+  },
+  {
+    "iso": "IM",
+    "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postalCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$"
+  },
+  {
+    "iso": "IN",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "IO",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "IQ",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "IR",
+    "postalCodeFormat": "##########",
+    "postalCodeRegex": "^(\\d{10})$"
+  },
+  {
+    "iso": "IS",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(\\d{3})$"
+  },
+  {
+    "iso": "IT",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "JE",
+    "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "postalCodeRegex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$"
+  },
+  {
+    "iso": "JM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "JO",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "JP",
+    "postalCodeFormat": "###-####",
+    "postalCodeRegex": "^\\d{3}-\\d{4}$"
+  },
+  {
+    "iso": "KE",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "KG",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "KH",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "KI",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "KM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "KN",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "KP",
+    "postalCodeFormat": "###-###",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "KR",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "XK",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "KW",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "KY",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "KZ",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "LA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "LB",
+    "postalCodeFormat": "#### ####|####",
+    "postalCodeRegex": "^(\\d{4}(\\d{4})?)$"
+  },
+  {
+    "iso": "LC",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "LI",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "LK",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "LR",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "LS",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(\\d{3})$"
+  },
+  {
+    "iso": "LT",
+    "postalCodeFormat": "LT-#####",
+    "postalCodeRegex": "^(?:LT)*(\\d{5})$"
+  },
+  {
+    "iso": "LU",
+    "postalCodeFormat": "L-####",
+    "postalCodeRegex": "^(?:L-)?\\d{4}$"
+  },
+  {
+    "iso": "LV",
+    "postalCodeFormat": "LV-####",
+    "postalCodeRegex": "^(?:LV)*(\\d{4})$"
+  },
+  {
+    "iso": "LY",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MC",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MD",
+    "postalCodeFormat": "MD-####",
+    "postalCodeRegex": "^MD-\\d{4}$"
+  },
+  {
+    "iso": "ME",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MF",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MG",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(\\d{3})$"
+  },
+  {
+    "iso": "MH",
+    "postalCodeFormat": "#####-####",
+    "postalCodeRegex": "^969\\d{2}(-\\d{4})$"
+  },
+  {
+    "iso": "MK",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "ML",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MM",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MN",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "MO",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MP",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^9695\\d{1}$"
+  },
+  {
+    "iso": "MQ",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MR",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MT",
+    "postalCodeFormat": "@@@ ####",
+    "postalCodeRegex": "^[A-Z]{3}\\s?\\d{4}$"
+  },
+  {
+    "iso": "MU",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "MV",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MW",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "MX",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MY",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "MZ",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "NA",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "NC",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "NE",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "NF",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "NG",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "NI",
+    "postalCodeFormat": "###-###-#",
+    "postalCodeRegex": "^(\\d{7})$"
+  },
+  {
+    "iso": "NL",
+    "postalCodeFormat": "#### @@",
+    "postalCodeRegex": "^(\\d{4}\\s?[a-zA-Z]{2})$"
+  },
+  {
+    "iso": "NO",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "NP",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "NR",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "NU",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "NZ",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "OM",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(\\d{3})$"
+  },
+  {
+    "iso": "PA",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "PE",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "PF",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^((97|98)7\\d{2})$"
+  },
+  {
+    "iso": "PG",
+    "postalCodeFormat": "###",
+    "postalCodeRegex": "^(\\d{3})$"
+  },
+  {
+    "iso": "PH",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "PK",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "PL",
+    "postalCodeFormat": "##-###",
+    "postalCodeRegex": "^\\d{2}-\\d{3}$"
+  },
+  {
+    "iso": "PM",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(97500)$"
+  },
+  {
+    "iso": "PN",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "PR",
+    "postalCodeFormat": "#####-####",
+    "postalCodeRegex": "^00[679]\\d{2}(?:-\\d{4})?$"
+  },
+  {
+    "iso": "PS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "PT",
+    "postalCodeFormat": "####-###",
+    "postalCodeRegex": "^\\d{4}-\\d{3}\\s?[a-zA-Z]{0,25}$"
+  },
+  {
+    "iso": "PW",
+    "postalCodeFormat": 96940,
+    "postalCodeRegex": "^(96940)$"
+  },
+  {
+    "iso": "PY",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "QA",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "RE",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^((97|98)(4|7|8)\\d{2})$"
+  },
+  {
+    "iso": "RO",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "RS",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "RU",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "RW",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "SB",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SC",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SD",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "SS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SE",
+    "postalCodeFormat": "### ##",
+    "postalCodeRegex": "^(?:SE)?\\d{3}\\s\\d{2}$"
+  },
+  {
+    "iso": "SG",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "SH",
+    "postalCodeFormat": "STHL 1ZZ",
+    "postalCodeRegex": "^(STHL1ZZ)$"
+  },
+  {
+    "iso": "SI",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(?:SI)*(\\d{4})$"
+  },
+  {
+    "iso": "SJ",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "SK",
+    "postalCodeFormat": "### ##",
+    "postalCodeRegex": "^\\d{3}\\s?\\d{2}$"
+  },
+  {
+    "iso": "SL",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SM",
+    "postalCodeFormat": "4789#",
+    "postalCodeRegex": "^(4789\\d)$"
+  },
+  {
+    "iso": "SN",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "SO",
+    "postalCodeFormat": "@@  #####",
+    "postalCodeRegex": "^([A-Z]{2}\\d{5})$"
+  },
+  {
+    "iso": "SR",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "ST",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SV",
+    "postalCodeFormat": "CP ####",
+    "postalCodeRegex": "^(?:CP)*(\\d{4})$"
+  },
+  {
+    "iso": "SX",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SY",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "SZ",
+    "postalCodeFormat": "@###",
+    "postalCodeRegex": "^([A-Z]\\d{3})$"
+  },
+  {
+    "iso": "TC",
+    "postalCodeFormat": "TKCA 1ZZ",
+    "postalCodeRegex": "^(TKCA 1ZZ)$"
+  },
+  {
+    "iso": "TD",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TF",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TG",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TH",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "TJ",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "TK",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TL",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TM",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "TN",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "TO",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TR",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "TT",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TV",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "TW",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "TZ",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "UA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "UG",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "UM",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "US",
+    "postalCodeFormat": "#####-####",
+    "postalCodeRegex": "^\\d{5}(-\\d{4})?$"
+  },
+  {
+    "iso": "UY",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "UZ",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "VA",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "VC",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "VE",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "VG",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "VI",
+    "postalCodeFormat": "#####-####",
+    "postalCodeRegex": "^008\\d{2}(?:-\\d{4})?$"
+  },
+  {
+    "iso": "VN",
+    "postalCodeFormat": "######",
+    "postalCodeRegex": "^(\\d{6})$"
+  },
+  {
+    "iso": "VU",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "WF",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(986\\d{2})$"
+  },
+  {
+    "iso": "WS",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "YE",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "YT",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "ZA",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$"
+  },
+  {
+    "iso": "ZM",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "ZW",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  },
+  {
+    "iso": "CS",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$"
+  },
+  {
+    "iso": "AN",
+    "postalCodeFormat": "",
+    "postalCodeRegex": ""
+  }
+]

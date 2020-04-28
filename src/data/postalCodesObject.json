@@ -1,0 +1,1261 @@
+{
+  "AD": {
+    "format": "AD###",
+    "regex": "^(?:AD)*(\\d{3})$",
+    "maxLength": 5
+  },
+  "AE": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AF": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AG": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AI": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AL": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "AM": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "AO": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AQ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AR": {
+    "format": "@####@@@",
+    "regex": "^[A-Z]?\\d{4}[A-Z]{0,3}$",
+    "maxLength": 8
+  },
+  "AS": {
+    "format": "#####-####",
+    "regex": 96799,
+    "maxLength": 10
+  },
+  "AT": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "AU": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "AW": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "AX": {
+    "format": "#####",
+    "regex": "^(?:FI)*(\\d{5})$",
+    "maxLength": 5
+  },
+  "AZ": {
+    "format": "AZ ####",
+    "regex": "^(?:AZ)*(\\d{4})$",
+    "maxLength": 7
+  },
+  "BA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "BB": {
+    "format": "BB#####",
+    "regex": "^(?:BB)*(\\d{5})$",
+    "maxLength": 7
+  },
+  "BD": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "BE": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "BF": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BG": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "BH": {
+    "format": "####|###",
+    "regex": "^(\\d{3}\\d?)$",
+    "maxLength": 8
+  },
+  "BI": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BJ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BL": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "BM": {
+    "format": "@@ ##",
+    "regex": "^([A-Z]{2}\\d{2})$",
+    "maxLength": 5
+  },
+  "BN": {
+    "format": "@@####",
+    "regex": "^([A-Z]{2}\\d{4})$",
+    "maxLength": 6
+  },
+  "BO": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BQ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BR": {
+    "format": "#####-###",
+    "regex": "^\\d{5}-\\d{3}$",
+    "maxLength": 9
+  },
+  "BS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BT": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BV": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BW": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "BY": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "BZ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CA": {
+    "format": "@#@ #@#",
+    "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$",
+    "maxLength": 7
+  },
+  "CC": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CD": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CF": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CG": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CH": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "CI": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CK": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CL": {
+    "format": "#######",
+    "regex": "^(\\d{7})$",
+    "maxLength": 7
+  },
+  "CM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CN": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "CO": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "CR": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "CU": {
+    "format": "CP #####",
+    "regex": "^(?:CP)*(\\d{5})$",
+    "maxLength": 8
+  },
+  "CV": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "CW": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CX": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "CY": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "CZ": {
+    "format": "### ##",
+    "regex": "^\\d{3}\\s?\\d{2}$",
+    "maxLength": 6
+  },
+  "DE": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "DJ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "DK": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "DM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "DO": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "DZ": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "EC": {
+    "format": "@####@",
+    "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$",
+    "maxLength": 6
+  },
+  "EE": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "EG": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "EH": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "ER": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "ES": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "ET": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "FI": {
+    "format": "#####",
+    "regex": "^(?:FI)*(\\d{5})$",
+    "maxLength": 5
+  },
+  "FJ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "FK": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "FM": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "FO": {
+    "format": "###",
+    "regex": "^(?:FO)*(\\d{3})$",
+    "maxLength": 3
+  },
+  "FR": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "GA": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GB": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^([Gg][Ii][Rr]\\s?0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))\\s?[0-9][A-Za-z]{2})$",
+    "maxLength": 55
+  },
+  "GD": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GE": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "GF": {
+    "format": "#####",
+    "regex": "^((97|98)3\\d{2})$",
+    "maxLength": 5
+  },
+  "GG": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+    "maxLength": 55
+  },
+  "GH": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GI": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GL": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "GM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GN": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GP": {
+    "format": "#####",
+    "regex": "^((97|98)\\d{3})$",
+    "maxLength": 5
+  },
+  "GQ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GR": {
+    "format": "### ##",
+    "regex": "^(\\d{5})$",
+    "maxLength": 6
+  },
+  "GS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "GT": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "GU": {
+    "format": "969##",
+    "regex": "^(969\\d{2})$",
+    "maxLength": 5
+  },
+  "GW": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "GY": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "HK": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "HM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "HN": {
+    "format": "@@####",
+    "regex": "^([A-Z]{2}\\d{4})$",
+    "maxLength": 6
+  },
+  "HR": {
+    "format": "#####",
+    "regex": "^(?:HR)*(\\d{5})$",
+    "maxLength": 5
+  },
+  "HT": {
+    "format": "HT####",
+    "regex": "^(?:HT)*(\\d{4})$",
+    "maxLength": 6
+  },
+  "HU": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "ID": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "IE": {
+    "format": "@@@ @@@@",
+    "regex": "^(D6W|[AC-FHKNPRTV-Y][0-9]{2})\\s?([AC-FHKNPRTV-Y0-9]{4})",
+    "maxLength": 8
+  },
+  "IL": {
+    "format": "#######",
+    "regex": "^(\\d{7}|\\d{5})$",
+    "maxLength": 7
+  },
+  "IM": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+    "maxLength": 55
+  },
+  "IN": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "IO": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "IQ": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "IR": {
+    "format": "##########",
+    "regex": "^(\\d{10})$",
+    "maxLength": 10
+  },
+  "IS": {
+    "format": "###",
+    "regex": "^(\\d{3})$",
+    "maxLength": 3
+  },
+  "IT": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "JE": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
+    "maxLength": 55
+  },
+  "JM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "JO": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "JP": {
+    "format": "###-####",
+    "regex": "^\\d{3}-\\d{4}$",
+    "maxLength": 8
+  },
+  "KE": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "KG": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "KH": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "KI": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "KM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "KN": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "KP": {
+    "format": "###-###",
+    "regex": "^(\\d{6})$",
+    "maxLength": 7
+  },
+  "KR": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "XK": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "KW": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "KY": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "KZ": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "LA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "LB": {
+    "format": "#### ####|####",
+    "regex": "^(\\d{4}(\\d{4})?)$",
+    "maxLength": 14
+  },
+  "LC": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "LI": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "LK": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "LR": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "LS": {
+    "format": "###",
+    "regex": "^(\\d{3})$",
+    "maxLength": 3
+  },
+  "LT": {
+    "format": "LT-#####",
+    "regex": "^(?:LT)*(\\d{5})$",
+    "maxLength": 8
+  },
+  "LU": {
+    "format": "L-####",
+    "regex": "^(?:L-)?\\d{4}$",
+    "maxLength": 6
+  },
+  "LV": {
+    "format": "LV-####",
+    "regex": "^(?:LV)*(\\d{4})$",
+    "maxLength": 7
+  },
+  "LY": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MC": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MD": {
+    "format": "MD-####",
+    "regex": "^MD-\\d{4}$",
+    "maxLength": 7
+  },
+  "ME": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MF": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MG": {
+    "format": "###",
+    "regex": "^(\\d{3})$",
+    "maxLength": 3
+  },
+  "MH": {
+    "format": "#####-####",
+    "regex": "^969\\d{2}(-\\d{4})$",
+    "maxLength": 10
+  },
+  "MK": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "ML": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MM": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MN": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "MO": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MP": {
+    "format": "#####",
+    "regex": "^9695\\d{1}$",
+    "maxLength": 5
+  },
+  "MQ": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MR": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MT": {
+    "format": "@@@ ####",
+    "regex": "^[A-Z]{3}\\s?\\d{4}$",
+    "maxLength": 8
+  },
+  "MU": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "MV": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MW": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "MX": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MY": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "MZ": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "NA": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "NC": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "NE": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "NF": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "NG": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "NI": {
+    "format": "###-###-#",
+    "regex": "^(\\d{7})$",
+    "maxLength": 9
+  },
+  "NL": {
+    "format": "#### @@",
+    "regex": "^(\\d{4}\\s?[a-zA-Z]{2})$",
+    "maxLength": 7
+  },
+  "NO": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "NP": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "NR": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "NU": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "NZ": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "OM": {
+    "format": "###",
+    "regex": "^(\\d{3})$",
+    "maxLength": 3
+  },
+  "PA": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "PE": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "PF": {
+    "format": "#####",
+    "regex": "^((97|98)7\\d{2})$",
+    "maxLength": 5
+  },
+  "PG": {
+    "format": "###",
+    "regex": "^(\\d{3})$",
+    "maxLength": 3
+  },
+  "PH": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "PK": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "PL": {
+    "format": "##-###",
+    "regex": "^\\d{2}-\\d{3}$",
+    "maxLength": 6
+  },
+  "PM": {
+    "format": "#####",
+    "regex": "^(97500)$",
+    "maxLength": 5
+  },
+  "PN": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "PR": {
+    "format": "#####-####",
+    "regex": "^00[679]\\d{2}(?:-\\d{4})?$",
+    "maxLength": 10
+  },
+  "PS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "PT": {
+    "format": "####-###",
+    "regex": "^\\d{4}-\\d{3}\\s?[a-zA-Z]{0,25}$",
+    "maxLength": 8
+  },
+  "PW": {
+    "format": 96940,
+    "regex": "^(96940)$"
+  },
+  "PY": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "QA": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "RE": {
+    "format": "#####",
+    "regex": "^((97|98)(4|7|8)\\d{2})$",
+    "maxLength": 5
+  },
+  "RO": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "RS": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "RU": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "RW": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "SB": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SC": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SD": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "SS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SE": {
+    "format": "### ##",
+    "regex": "^(?:SE)?\\d{3}\\s\\d{2}$",
+    "maxLength": 6
+  },
+  "SG": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "SH": {
+    "format": "STHL 1ZZ",
+    "regex": "^(STHL1ZZ)$",
+    "maxLength": 8
+  },
+  "SI": {
+    "format": "####",
+    "regex": "^(?:SI)*(\\d{4})$",
+    "maxLength": 4
+  },
+  "SJ": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "SK": {
+    "format": "### ##",
+    "regex": "^\\d{3}\\s?\\d{2}$",
+    "maxLength": 6
+  },
+  "SL": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SM": {
+    "format": "4789#",
+    "regex": "^(4789\\d)$",
+    "maxLength": 5
+  },
+  "SN": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "SO": {
+    "format": "@@  #####",
+    "regex": "^([A-Z]{2}\\d{5})$",
+    "maxLength": 9
+  },
+  "SR": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "ST": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SV": {
+    "format": "CP ####",
+    "regex": "^(?:CP)*(\\d{4})$",
+    "maxLength": 7
+  },
+  "SX": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SY": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "SZ": {
+    "format": "@###",
+    "regex": "^([A-Z]\\d{3})$",
+    "maxLength": 4
+  },
+  "TC": {
+    "format": "TKCA 1ZZ",
+    "regex": "^(TKCA 1ZZ)$",
+    "maxLength": 8
+  },
+  "TD": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TF": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TG": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TH": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "TJ": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "TK": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TL": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TM": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "TN": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "TO": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TR": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "TT": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TV": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "TW": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "TZ": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "UA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "UG": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "UM": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "US": {
+    "format": "#####-####",
+    "regex": "^\\d{5}(-\\d{4})?$",
+    "maxLength": 10
+  },
+  "UY": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "UZ": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "VA": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "VC": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "VE": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "VG": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "VI": {
+    "format": "#####-####",
+    "regex": "^008\\d{2}(?:-\\d{4})?$",
+    "maxLength": 10
+  },
+  "VN": {
+    "format": "######",
+    "regex": "^(\\d{6})$",
+    "maxLength": 6
+  },
+  "VU": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "WF": {
+    "format": "#####",
+    "regex": "^(986\\d{2})$",
+    "maxLength": 5
+  },
+  "WS": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "YE": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "YT": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "ZA": {
+    "format": "####",
+    "regex": "^(\\d{4})$",
+    "maxLength": 4
+  },
+  "ZM": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "ZW": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  },
+  "CS": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
+  "AN": {
+    "format": "",
+    "regex": "",
+    "maxLength": 0
+  }
+}
