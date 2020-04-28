@@ -16,3 +16,6 @@ import postalCodeHelpers from 'postal-code-helpers';
 postalCodeHelpers.validate('10999', 'DE'); // returns true/false or null
 
 ```
+
+## Data source
+Geonames
