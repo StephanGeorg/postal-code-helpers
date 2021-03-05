@@ -1,6 +1,6 @@
 {
   "name": "postal-code-helpers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helpers for postal codes.",
   "main": "./dist/index.js",
   "scripts": {
@@ -9,14 +9,14 @@
     "prepublish": "npm run build"
   },
   "keywords": [],
-  "author": "Stephan Georg <s.georg@nearest.place>",
+  "author": "Stephan Georg <s.georg@hey.com",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StephanGeorg/iso-countries-lookup.git"
+    "url": "https://github.com/StephanGeorg/postal-code-helpers.git"
   },
   "bugs": {
-    "url": "https://github.com/StephanGeorg/iso-countries-lookup/issues"
+    "url": "https://github.com/StephanGeorg/postal-code-helpers/issues"
   },
   "dependencies": {
     "@babel/runtime": "^7.13.9",
