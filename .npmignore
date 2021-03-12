@@ -1,7 +1,8 @@
 src
 test
+.github
 .eslintrc
 .babelrc
-data/postalCodes.json
-data/postalCodesObject.json
-data/postalCodeTypes.json
+dist/data/postalCodes.json
+dist/data/postalCodesObject.json
+dist/data/postalCodeTypes.json
