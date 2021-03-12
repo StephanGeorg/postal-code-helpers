@@ -1,6 +1,6 @@
 # Postal code helpers
 
-Lightweight helpers for working with international postal code data to extract, validate or s
+Lightweight helpers for working with international postal code data to extract, validate or locate postal codes based on [GeoNames](https://www.geonames.org/postal-codes/) data.
 
 ## Installation
 
