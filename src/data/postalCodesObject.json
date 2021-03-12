@@ -4,26 +4,6 @@
     "regex": "^(?:AD)*(\\d{3})$",
     "maxLength": 5
   },
-  "AE": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "AF": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "AG": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "AI": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "AL": {
     "format": "####",
     "regex": "^(\\d{4})$",
@@ -33,16 +13,6 @@
     "format": "######",
     "regex": "^(\\d{6})$",
     "maxLength": 6
-  },
-  "AO": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "AQ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "AR": {
     "format": "@####@@@",
@@ -63,11 +33,6 @@
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "AW": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "AX": {
     "format": "#####",
@@ -99,11 +64,6 @@
     "regex": "^(\\d{4})$",
     "maxLength": 4
   },
-  "BF": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "BG": {
     "format": "####",
     "regex": "^(\\d{4})$",
@@ -113,16 +73,6 @@
     "format": "####|###",
     "regex": "^(\\d{3}\\d?)$",
     "maxLength": 8
-  },
-  "BI": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "BJ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "BL": {
     "format": "#####",
@@ -139,100 +89,30 @@
     "regex": "^([A-Z]{2}\\d{4})$",
     "maxLength": 6
   },
-  "BO": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "BQ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "BR": {
     "format": "#####-###",
     "regex": "^\\d{5}-\\d{3}$",
     "maxLength": 9
-  },
-  "BS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "BT": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "BV": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "BW": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "BY": {
     "format": "######",
     "regex": "^(\\d{6})$",
     "maxLength": 6
   },
-  "BZ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "CA": {
     "format": "@#@ #@#",
     "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$",
     "maxLength": 7
-  },
-  "CC": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "CD": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "CF": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "CG": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "CH": {
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
   },
-  "CI": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "CK": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "CL": {
     "format": "#######",
     "regex": "^(\\d{7})$",
     "maxLength": 7
-  },
-  "CM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "CN": {
     "format": "######",
@@ -249,6 +129,11 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
+  "CS": {
+    "format": "#####",
+    "regex": "^(\\d{5})$",
+    "maxLength": 5
+  },
   "CU": {
     "format": "CP #####",
     "regex": "^(?:CP)*(\\d{5})$",
@@ -258,11 +143,6 @@
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "CW": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "CX": {
     "format": "####",
@@ -284,20 +164,10 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "DJ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "DK": {
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "DM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "DO": {
     "format": "#####",
@@ -324,16 +194,6 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "EH": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "ER": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "ES": {
     "format": "#####",
     "regex": "^(\\d{5})$",
@@ -348,16 +208,6 @@
     "format": "#####",
     "regex": "^(?:FI)*(\\d{5})$",
     "maxLength": 5
-  },
-  "FJ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "FK": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "FM": {
     "format": "#####",
@@ -374,20 +224,10 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "GA": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "GB": {
     "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
     "regex": "^([Gg][Ii][Rr]\\s?0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9]?[A-Za-z]))))\\s?[0-9][A-Za-z]{2})$",
     "maxLength": 55
-  },
-  "GD": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "GE": {
     "format": "####",
@@ -404,50 +244,20 @@
     "regex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
     "maxLength": 55
   },
-  "GH": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "GI": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "GL": {
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "GM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "GN": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "GP": {
     "format": "#####",
     "regex": "^((97|98)\\d{3})$",
     "maxLength": 5
   },
-  "GQ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "GR": {
     "format": "### ##",
     "regex": "^(\\d{5})$",
     "maxLength": 6
-  },
-  "GS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "GT": {
     "format": "#####",
@@ -463,21 +273,6 @@
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "GY": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "HK": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "HM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "HN": {
     "format": "@@####",
@@ -524,11 +319,6 @@
     "regex": "^(\\d{6})$",
     "maxLength": 6
   },
-  "IO": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "IQ": {
     "format": "#####",
     "regex": "^(\\d{5})$",
@@ -553,11 +343,6 @@
     "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
     "regex": "^((?:(?:[A-PR-UWYZ][A-HK-Y]\\d[ABEHMNPRV-Y0-9]|[A-PR-UWYZ]\\d[A-HJKPS-UW0-9])\\s\\d[ABD-HJLNP-UW-Z]{2})|GIR\\s?0AA)$",
     "maxLength": 55
-  },
-  "JM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "JO": {
     "format": "#####",
@@ -584,21 +369,6 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "KI": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "KM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "KN": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "KP": {
     "format": "###-###",
     "regex": "^(\\d{6})$",
@@ -609,20 +379,10 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "XK": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "KW": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
-  },
-  "KY": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "KZ": {
     "format": "######",
@@ -638,11 +398,6 @@
     "format": "#### ####|####",
     "regex": "^(\\d{4}(\\d{4})?)$",
     "maxLength": 14
-  },
-  "LC": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "LI": {
     "format": "####",
@@ -678,11 +433,6 @@
     "format": "LV-####",
     "regex": "^(?:LV)*(\\d{4})$",
     "maxLength": 7
-  },
-  "LY": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "MA": {
     "format": "#####",
@@ -724,11 +474,6 @@
     "regex": "^(\\d{4})$",
     "maxLength": 4
   },
-  "ML": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "MM": {
     "format": "#####",
     "regex": "^(\\d{5})$",
@@ -738,11 +483,6 @@
     "format": "######",
     "regex": "^(\\d{6})$",
     "maxLength": 6
-  },
-  "MO": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "MP": {
     "format": "#####",
@@ -754,25 +494,10 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "MR": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "MS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "MT": {
     "format": "@@@ ####",
     "regex": "^[A-Z]{3}\\s?\\d{4}$",
     "maxLength": 8
-  },
-  "MU": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "MV": {
     "format": "#####",
@@ -798,11 +523,6 @@
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "NA": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "NC": {
     "format": "#####",
@@ -844,16 +564,6 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "NR": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "NU": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "NZ": {
     "format": "####",
     "regex": "^(\\d{4})$",
@@ -863,16 +573,6 @@
     "format": "###",
     "regex": "^(\\d{3})$",
     "maxLength": 3
-  },
-  "PA": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "PE": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "PF": {
     "format": "#####",
@@ -904,20 +604,10 @@
     "regex": "^(97500)$",
     "maxLength": 5
   },
-  "PN": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "PR": {
     "format": "#####-####",
     "regex": "^00[679]\\d{2}(?:-\\d{4})?$",
     "maxLength": 10
-  },
-  "PS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "PT": {
     "format": "####-###",
@@ -932,11 +622,6 @@
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "QA": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "RE": {
     "format": "#####",
@@ -958,35 +643,15 @@
     "regex": "^(\\d{6})$",
     "maxLength": 6
   },
-  "RW": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "SA": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "SB": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "SC": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "SD": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
-  },
-  "SS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "SE": {
     "format": "### ##",
@@ -1018,11 +683,6 @@
     "regex": "^\\d{3}\\s?\\d{2}$",
     "maxLength": 6
   },
-  "SL": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "SM": {
     "format": "4789#",
     "regex": "^(4789\\d)$",
@@ -1038,30 +698,10 @@
     "regex": "^([A-Z]{2}\\d{5})$",
     "maxLength": 9
   },
-  "SR": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "ST": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "SV": {
     "format": "CP ####",
     "regex": "^(?:CP)*(\\d{4})$",
     "maxLength": 7
-  },
-  "SX": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "SY": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "SZ": {
     "format": "@###",
@@ -1073,21 +713,6 @@
     "regex": "^(TKCA 1ZZ)$",
     "maxLength": 8
   },
-  "TD": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "TF": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "TG": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "TH": {
     "format": "#####",
     "regex": "^(\\d{5})$",
@@ -1097,16 +722,6 @@
     "format": "######",
     "regex": "^(\\d{6})$",
     "maxLength": 6
-  },
-  "TK": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "TL": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "TM": {
     "format": "######",
@@ -1118,50 +733,20 @@
     "regex": "^(\\d{4})$",
     "maxLength": 4
   },
-  "TO": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "TR": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
-  },
-  "TT": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "TV": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "TW": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "TZ": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "UA": {
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
-  },
-  "UG": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "UM": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "US": {
     "format": "#####-####",
@@ -1183,20 +768,10 @@
     "regex": "^(\\d{5})$",
     "maxLength": 5
   },
-  "VC": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "VE": {
     "format": "####",
     "regex": "^(\\d{4})$",
     "maxLength": 4
-  },
-  "VG": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "VI": {
     "format": "#####-####",
@@ -1208,25 +783,10 @@
     "regex": "^(\\d{6})$",
     "maxLength": 6
   },
-  "VU": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
   "WF": {
     "format": "#####",
     "regex": "^(986\\d{2})$",
     "maxLength": 5
-  },
-  "WS": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "YE": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   },
   "YT": {
     "format": "#####",
@@ -1242,20 +802,5 @@
     "format": "#####",
     "regex": "^(\\d{5})$",
     "maxLength": 5
-  },
-  "ZW": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
-  },
-  "CS": {
-    "format": "#####",
-    "regex": "^(\\d{5})$",
-    "maxLength": 5
-  },
-  "AN": {
-    "format": "",
-    "regex": "",
-    "maxLength": 0
   }
 }

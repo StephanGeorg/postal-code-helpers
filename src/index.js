@@ -1,5 +1,5 @@
-import postalCodeTypes from './data/postalCodeTypes.json';
-import postalCodesObject from './data/postalCodesObject.json';
+import postalCodeTypes from './data/postalCodeTypes.min.json';
+import postalCodesObject from './data/postalCodesObject.min.json';
 
 const postalCodeHelpers = {
   /**
