@@ -1,6 +1,6 @@
 {
   "name": "postal-code-helpers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Helpers for intl. postal codes.",
   "main": "./dist/index.js",
   "scripts": {
