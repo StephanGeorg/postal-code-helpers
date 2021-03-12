@@ -17,11 +17,14 @@ import postalCodeHelpers from 'postal-code-helpers';
 
 ```javascript
 
-postalCodeHelpers.extract('this is a postal code 10999', 'DE'); // ['10999']
+postalCodeHelpers.extract('this is a postal code 10999', 'DE'); 
+// ['10999']
 
-postalCodeHelpers.extract('this .10247, is a r23412345341 postal code 10999', 'DE'); // ['10247', '10999']
+postalCodeHelpers.extract('this .10247, is a r23412345341 postal code 10999', 'DE'); 
+// ['10247', '10999']
 
-postalCodeHelpers.extract('this is a post code 1099921342345 inside a 1024 string', 'DE'); // null
+postalCodeHelpers.extract('this is a post code 1099921342345 inside a 1024 string', 'DE'); 
+// null
 
 ```
 
@@ -29,9 +32,11 @@ postalCodeHelpers.extract('this is a post code 1099921342345 inside a 1024 strin
 
 ```javascript
 
-postalCodeHelpers.validate('10999', 'DE'); // true
+postalCodeHelpers.validate('10999', 'DE');
+// true
 
-postalCodeHelpers.validate('1234', 'DE'); // false
+postalCodeHelpers.validate('1234', 'DE'); 
+// false
 
 ```
 
@@ -39,9 +44,11 @@ postalCodeHelpers.validate('1234', 'DE'); // false
 
 ```javascript
 
-postalCodeHelpers.locate('SE1 6DR'); // [ 'GB' ]
+postalCodeHelpers.locate('SE1 6DR'); 
+// [ 'GB' ]
 
-postalCodeHelpers.locate('this is not a postal code'); // []
+postalCodeHelpers.locate('this is not a postal code'); 
+// []
 
 ```
 
