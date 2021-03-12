@@ -1,9 +1,25 @@
 import postalCodeTypes from './data/postalCodeTypes.json';
 import postalCodesObject from './data/postalCodesObject.json';
 
-export default {
+const postalCodeHelpers = {
+  /**
+   * Extract postal codes by country from string
+   * @param {*} input
+   * @param {*} country
+   * @returns {string[]|null}
+   */
+  extract(input = '', country = '') {
+    const postalCode = postalCodesObject[country.toUpperCase().trim()];
+    if (!postalCode || !postalCode.regex) return null;
+    const postCodeRegex = new RegExp(postalCode.regex.replace(/^\^(.*)\$$/, '\\b$1\\b'), 'ig');
+    return input.match(postCodeRegex);
+  },
+
   /**
    * Validate postal code by country
+   * @param {string} code
+   * @param {string} country
+   * @returns {string|null}
    */
   validate(code = '', country = '') {
     if (!code || !country) return undefined;
@@ -13,16 +29,11 @@ export default {
   },
 
   /**
-   *  Extract postal code by country from string
+   * Locate countries for postal code
+   * @param {string} code
+   * @returns {string[]|null}
    */
-  // extract(code = '', country = '') {
-  //
-  // },
-
-  /**
-   *  Search countries by postal code
-   */
-  search(code = '') {
+  locate(code = '') {
     const result = [];
     const regexTypes = Object.keys(postalCodeTypes);
     for (let index = 0; index < regexTypes.length; index++) {
@@ -31,5 +42,11 @@ export default {
         return postalCodeTypes[postalRegex].countries;
       }
     }
+    return result.length
+      ? result
+      : null;
   },
 };
+
+export default postalCodeHelpers;
+module.exports = postalCodeHelpers;
