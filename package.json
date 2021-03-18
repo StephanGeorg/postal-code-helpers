@@ -1,6 +1,6 @@
 {
   "name": "postal-code-helpers",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Helpers for intl. postal codes.",
   "main": "./dist/index.js",
   "scripts": {
@@ -24,7 +24,9 @@
   "bugs": {
     "url": "https://github.com/StephanGeorg/postal-code-helpers/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@babel/runtime": "^7.13.10"
+  },
   "devDependencies": {
     "@babel/cli": "^7.13.10",
     "@babel/core": "^7.13.10",
