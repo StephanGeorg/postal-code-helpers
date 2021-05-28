@@ -1,6 +1,6 @@
 {
   "name": "postal-code-helpers",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Helpers for intl. postal codes.",
   "main": "./dist/index.js",
   "scripts": {
@@ -25,20 +25,20 @@
     "url": "https://github.com/StephanGeorg/postal-code-helpers/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.13.10"
+    "@babel/runtime": "^7.14.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.10",
-    "@babel/core": "^7.13.10",
-    "@babel/eslint-parser": "^7.13.10",
-    "@babel/plugin-transform-runtime": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/eslint-parser": "^7.14.3",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
     "@babel/preset-stage-2": "^7.8.3",
-    "@babel/register": "^7.13.8",
-    "chai": "^4.3.3",
-    "eslint": "^7.21.0",
+    "@babel/register": "^7.13.16",
+    "chai": "^4.3.4",
+    "eslint": "^7.27.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
-    "mocha": "^8.3.2"
+    "eslint-plugin-import": "^2.23.3",
+    "mocha": "^8.4.0"
   }
 }
