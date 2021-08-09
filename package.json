@@ -1,6 +1,6 @@
 {
   "name": "postal-code-helpers",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Helpers for intl. postal codes.",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,29 +16,27 @@
     "postcode extraction"
   ],
   "author": "Stephan Georg <s.georg@hey.com>",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/StephanGeorg/postal-code-helpers.git"
-  },
+  "license": "MIT",
+  "repository": "github:StephanGeorg/staticmaps",
   "bugs": {
-    "url": "https://github.com/StephanGeorg/postal-code-helpers/issues"
+    "url": "https://github.com/StephanGeorg/iso-countries-lookup/issues"
   },
+  "homepage": "https://github.com/StephanGeorg/staticmaps#readme",
   "dependencies": {
-    "@babel/runtime": "^7.14.0"
+    "@babel/runtime": "^7.14.8"
   },
   "devDependencies": {
-    "@babel/cli": "^7.14.3",
-    "@babel/core": "^7.14.3",
-    "@babel/eslint-parser": "^7.14.3",
-    "@babel/plugin-transform-runtime": "^7.14.3",
-    "@babel/preset-env": "^7.14.2",
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/eslint-parser": "^7.15.0",
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
     "@babel/preset-stage-2": "^7.8.3",
-    "@babel/register": "^7.13.16",
+    "@babel/register": "^7.14.5",
     "chai": "^4.3.4",
-    "eslint": "^7.27.0",
+    "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.23.3",
-    "mocha": "^8.4.0"
+    "eslint-plugin-import": "^2.24.0",
+    "mocha": "^9.0.3"
   }
 }
