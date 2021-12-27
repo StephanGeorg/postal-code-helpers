@@ -1,11 +1,11 @@
 # Postal code helpers [![npm version](https://badge.fury.io/js/postal-code-helpers.svg)](https://badge.fury.io/js/postal-code-helpers)
 
-Lightweight helpers for working with [international postal code](#supported-countries) data to extract, validate or locate postal codes based on [GeoNames](https://www.geonames.org/postal-codes/) data.
+Lightweight helpers for working with [international postal code](#supported-countries) data to [extract](#extract-postal-code-from-string), [validate](#validate-postal-code) or [locate](#locate-countries-for-postal-codes) postal codes based on [GeoNames](https://www.geonames.org/postal-codes/) data.
 
 ## Installation
 
 ```
-> npm i postal-code-helpers
+npm i postal-code-helpers
 ```
 
 ```javascript
